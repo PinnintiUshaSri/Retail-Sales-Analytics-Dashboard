@@ -83,6 +83,9 @@ Average Sales = ₹31,737.5
 ## Files Included
 
 - Retail_Sales_dashboard.xlsx
+- Raw_Data.png
+- Pivot_Tables.png
+- Dashboard-Overview.png
 
 ## Outcome
 
